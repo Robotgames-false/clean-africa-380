@@ -3,7 +3,7 @@
 
 [Contexto](https://github.com/elisioMassaqui/clean-africa/blob/main/About%20Clean%20Africa.md)
 
-![Splash Scree] (https://github.com/elisioMassaqui/clean-africa/blob/main/Anota%C3%A7%C3%A3o%202024-04-28%20122349.png)
+![Splash Scree](https://github.com/elisioMassaqui/clean-africa/blob/main/Anota%C3%A7%C3%A3o%202024-04-28%20122349.png)
 
 ![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square)
 
