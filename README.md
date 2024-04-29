@@ -1,6 +1,8 @@
 # 🌎 Clean Africa 🌿
 **Um App de Sustentabilidade para Lixo em Comunidades da África Central**
 
+[Sobre (https://github.com/elisioMassaqui/clean-africa/blob/main/About%20Clean%20Africa.md)]
+
 ![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square)
 
 ## Sobre o App
