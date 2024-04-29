@@ -1,0 +1,25 @@
+name: localclean
+description: "A new Flutter project focused on sustainability and waste management in Central Africa."
+publish_to: 'none'  # Para evitar a publicação acidental
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6  # Ícones do Cupertino para uso em design
+  google_fonts: ^6.2.1  # Para estilizar fontes com Google Fonts
+  email_launcher: ^1.1.1
+  file_picker: ^8.0.3
+  flutter_svg: ^2.0.10+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter  # Para testes em Flutter
+  flutter_lints: ^3.0.0  # Para garantir consistência no código e boas práticas
+
+flutter:
+  uses-material-design: true  # Para permitir o uso de componentes do Material Design
